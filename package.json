@@ -11,6 +11,8 @@
     "react-pro-sidebar": "^0.7.1",
     "react-scripts": "^5.0.1",
     "react-vis-network-graph": "3.0.1",
+    "vis-data": "^7.1.8",
+    "vis-network": "^9.1.9",
     "web-vitals": "3.5.0"
   },
   "scripts": {
@@ -36,5 +38,6 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "publicPath": "/img/"
 }
