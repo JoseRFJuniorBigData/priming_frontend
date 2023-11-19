@@ -1,5 +1,5 @@
 body{
-  background-color: #202124;
+  background-color: #fafafa;
 }
 
 .container {
@@ -46,3 +46,6 @@ body{
   grid-row: 3 / 4;
  }
  
+ .texto-gerado {
+  overflow-y: auto;
+}

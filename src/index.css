@@ -18,5 +18,9 @@ body {
   width: 800px;
   height: 800px;
   border: 1px solid lightgray;
-  background-color: #333333;
+  background-color: #f1eaea;
+}
+
+.texto-gerado {
+  overflow-y: auto;
 }

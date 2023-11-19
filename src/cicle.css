@@ -5,6 +5,8 @@ body {
     width: 800px;
     height: 800px;
     border: 1px solid lightgray;
-    background-color: #333333;
+    background-color: #fffefe;
   }
-  
+  .texto-gerado {
+    overflow-y: auto;
+  }  
