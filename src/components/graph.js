@@ -51,10 +51,10 @@ export default function GraphView() {
                 border: "#222222",
                 background: "#666666"
             },
-            font: {color: "yellow"}
+            font: {color: "black"}
         },
         edges: {
-            color: "yellow"
+            color: "black"
         },
         shadow: true,
         smooth: true,

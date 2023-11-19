@@ -14,12 +14,7 @@ const YouTube = () => {
       thumbnail: 'https://i.ytimg.com/an_webp/FGG7oxqUt0k/mqdefault_6s.webp?du=3000&sqp=CMD_5KoG&rs=AOn4CLAHSfVImIw_sX_Lt89AD68qlxpJ9Q',
       channel: 'dotCSV',
     },
-    {
-      id: 'd3u234567890',
-      title: 'Food',
-      thumbnail: 'https://i.ytimg.com/an_webp/Yh4Ql3rHHfU/mqdefault_6s.webp?du=3000&sqp=COyB5aoG&rs=AOn4CLDUhfmqklf8HUATLt8vXltTkm4KVg',
-      channel: 'dotCSV',
-    },
+ 
   ];
 
   return (

@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 
+
 const Text = () => {
   const texto = `The Smelly Dog
 
@@ -36,7 +37,7 @@ const Text = () => {
 
   return (
     <div className="container">
-       <h2 style={{ position: 'absolute', top: 0 }}>Text</h2>
+      <h2 style={{ position: 'absolute', top: 0 }}>Text</h2>
       <div className="texto-gerado">
         {texto}
       </div>
